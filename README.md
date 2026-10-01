@@ -5,3 +5,4 @@ a full-featured, interactive 2-Page Python Streamlit Dashboard Application with 
 
 <img width="910" height="362" alt="image" src="https://github.com/user-attachments/assets/cd7da889-e8f3-418e-9601-2667aae93970" />
 
+<img width="603" height="590" alt="image" src="https://github.com/user-attachments/assets/abbf9819-015e-414c-8f72-27a1ca5e7d1a" />
